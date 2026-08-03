@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[8071],{28071:(e,_,t)=>{t.d(_,{Z:()=>D});var s=t(62912),c=t(52773),d=t(38024),A=(0,c.l2)(d.Mt,{view:"checked"}),D=(0,s.QY)({desktop:A},{file:"depot/components/Button/_view_checked/index.ts"})}}]);

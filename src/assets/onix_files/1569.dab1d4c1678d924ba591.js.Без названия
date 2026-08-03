@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[1569],{21569:(_,e,s)=>{s.d(e,{U:()=>D});var t=s(62912),A=s(95026),D=(0,t.QY)({desktop:A.U},{file:"depot/components/Button/_size_l/index.ts"})}}]);
